@@ -1,0 +1,17 @@
+v1.4 
+- Added game icon;
+- Various bug fixes;
+
+v1.4.1
+- Fixed the position of health value;
+
+v1.5
+- Added main menu;
+- Added pause menu;
+- Added game over menu;
+
+v1.6
+- Fixed second row spawn points;
+- Fixed the enemy bullet not reaching the player issue;
+- Added hit sound (using the "AudioClip" method, instead of "AudioSource", in order to add multiple sound effects to one gameobject)
+	*Note: "AudioClip" method doesn't work on enemies;
